@@ -1,0 +1,5 @@
+global DB_NAME, CURR_USER, USER_TYPE
+
+DB_NAME = None
+CURR_USER = None
+USER_TYPE = None
